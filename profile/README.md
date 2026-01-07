@@ -1,7 +1,5 @@
 Welcome to **Elessar Labs** a small, focused team building at the intersection of decentralized finance, advanced AI tooling, and mission critical systems.
 
-We solve hard problems before they become expensive ones.
-
 ### Our Current Focus Areas
 
 - **Glacier**  
