@@ -2,7 +2,7 @@ Welcome to **Elessar Labs** a small, focused team building at the intersection o
 
 ### Our Current Focus Areas
 
-- **Glacier**  
+- **GLACIER**  
   A new participant in UniswapX, operating as a sophisticated filler in the protocol's permissionless auction based settlement system. We compete to execute user signed orders using optimized strategies, sourcing liquidity from diverse on chain pools and external sources while providing MEV protection, gas efficiency, and the best possible swap outcomes for traders.
 
 - **MELT**  
