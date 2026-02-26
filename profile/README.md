@@ -20,4 +20,4 @@ We build quietly, ship reliably, and prioritize outcomes over hype. Every system
 
 Interested in working together or exploring what AI integration could look like for your business? Reach out via issues on our repos or DMs on preferred channels.
 
-The Elessar Labs Team
+-The Elessar Labs Team
